@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "react-pdf": {
+      "source": "vercel-labs/json-render",
+      "sourceType": "github",
+      "skillPath": "skills/react-pdf/SKILL.md",
+      "computedHash": "82c58b5177f429f759ea93d6b60264a4ffee9a8ca233a1d5186c85c3b0492516"
+    }
+  }
+}
